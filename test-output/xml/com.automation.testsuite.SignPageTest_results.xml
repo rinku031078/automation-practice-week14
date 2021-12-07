@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Listeners Test"
+           tests="7"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="42.584">
+  <properties />
+  
+  
+            <testcase name="verifyTheErrorMessageWithInValidCredentials" time="7.426" classname="com.automation.testsuite.SignPageTest" />
+                <testcase name="verifyThatUserShouldLogInSuccessFullyWithValidCredentials" time="6.116" classname="com.automation.testsuite.SignPageTest" />
+                <testcase name="verifyTheErrorMessageWithInValidCredentials" time="4.554" classname="com.automation.testsuite.SignPageTest" />
+                <testcase name="userShouldNavigateToSignInPageSuccessFully" time="3.387" classname="com.automation.testsuite.SignPageTest" />
+                <testcase name="VerifyThatUserShouldLogOutSuccessFully" time="6.711" classname="com.automation.testsuite.SignPageTest" />
+                <testcase name="verifyTheErrorMessageWithInValidCredentials" time="4.919" classname="com.automation.testsuite.SignPageTest" />
+                <testcase name="verifyTheErrorMessageWithInValidCredentials" time="9.471" classname="com.automation.testsuite.SignPageTest" />
+      
+</testsuite>
